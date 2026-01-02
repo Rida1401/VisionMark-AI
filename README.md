@@ -2,7 +2,7 @@
 
 **VisionMark AI** is an advanced, AI-powered attendance system that uses facial recognition to automate attendance marking and reduce manual intervention. It combines a modern, responsive frontend with a robust Python-based computer vision backend to provide a seamless experience for students and teachers.
 
-![VisionMark AI Banner](https://via.placeholder.com/1200x400?text=VisionMark+AI)
+
 
 ## 🚀 Features
 
