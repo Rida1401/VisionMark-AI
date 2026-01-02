@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables (CRITICAL: Do not upload secrets)
+.env
+
+# Flask
+instance/
+.webassets-cache
+
+# DeepFace weights (large files)
+*.h5
+*.pkl
