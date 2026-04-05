@@ -48,9 +48,3 @@ VisionMark-AI/
     └── public/             # Static assets
 ```
 
-## 👤 Owner
-
-Created & Owned by **Rida**.
-
----
-*VisionMark AI © 2024. All Rights Reserved.*
